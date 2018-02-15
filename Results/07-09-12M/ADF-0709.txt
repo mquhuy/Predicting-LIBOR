@@ -1,0 +1,6 @@
+Augmented Dickey-Fuller Test:
+ADF Test Statistic : -7.12376401418
+p-value : 3.66507412028e-10
+#Lags Used : 5
+Number of Observations Used : 501
+strong evidence against the null hypothesis, reject the null hypothesis. Data has no unit root and is stationary

@@ -1,0 +1,3 @@
+According to AIC, the minimum AIC value is -2477.387650722595 at p=6 and q=6.
+According to BIC, the minimum BIC value is -2454.40352256 at p=0 and q=1.
+
